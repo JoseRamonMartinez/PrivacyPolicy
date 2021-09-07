@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Jose Ramon Martinez Riveiro built the Tendencias de Twitter alexa skill is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) . This SERVICE is provided by Jose Ramon Martinez Riveiro at no cost and is intended for use as is.
+Jose Ramon Martinez Riveiro built the Trending Topic alexa skill is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) . This SERVICE is provided by Jose Ramon Martinez Riveiro at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
