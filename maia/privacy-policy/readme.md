@@ -16,18 +16,11 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 
 Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación
 
-* [Servicios de Google Play](https://www.google.com/policies/privacy/)
 * [Amazon Web Service](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice__Spanish_Translation.pdf)
 
 **Datos de registro**
 
-Quiero informarte de que siempre que utilizas mi Servicio, en caso de que se produzca un error en la app, recojo datos e información (a través de productos de terceros) en tu teléfono llamados Log Data. Estos datos de registro pueden incluir información como la dirección del protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar mi Servicio, la hora y la fecha de su uso del Servicio y otras estadísticas.
-
-**Cookies**
-
-Las cookies son archivos con una pequeña cantidad de datos que se utilizan habitualmente como identificadores únicos anónimos. Se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo.
-
-Este Servicio no utiliza estas "cookies" explícitamente. Sin embargo, la aplicación puede utilizar código y bibliotecas de terceros que utilizan "cookies" para recopilar información y mejorar sus servicios. Usted tiene la opción de aceptar o rechazar estas "cookies" y saber cuándo se envía una "cookie" a su dispositivo. Si decide rechazar nuestras cookies, es posible que no pueda utilizar algunas partes de este Servicio.
+Quiero informarte de que siempre que utilizas mi Servicio, en caso de que se produzca un error en la app, recojo datos e información en tu teléfono llamados Log Data. Estos datos de registro pueden incluir información como la dirección del protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar mi Servicio, la hora y la fecha de su uso del Servicio y otras estadísticas.
 
 **Proveedores de servicios**
 
