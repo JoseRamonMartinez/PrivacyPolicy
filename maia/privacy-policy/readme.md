@@ -49,7 +49,7 @@ Estos Servicios no se dirigen a personas menores de 13 años. No recojo a sabien
 
 Es posible que actualice nuestra política de privacidad de vez en cuando. Por lo tanto, le aconsejo que revise esta página periódicamente para ver si hay cambios. Le notificaré cualquier cambio publicando la nueva Política de Privacidad en esta página.
 
-Esta política es efectiva a partir del 11-
+Esta política es efectiva a partir del 11-11-2021
 
 **Contacte con nosotros**
 
