@@ -6,6 +6,10 @@ Esta página se utiliza para informar a los visitantes con respecto a las polít
 
 Si usted decide utilizar mi Servicio, entonces usted está de acuerdo con la recopilación y el uso de la información en relación con esta política. La información personal que recojo se utiliza para proporcionar y mejorar el Servicio. No utilizaré ni compartiré su información con nadie, excepto como se describe en esta Política de Privacidad.
 
+Los datos relativos a su usuario se eliminarán tras un periodo de inactividad de 365, bajo notificación previa.
+
+Recuerde que en cualquier momento puede ejercer los derechos ARCO (acceso, rectificación, consulta y oposición) a través del contacto Josera.Martinez@hotmail.com
+
 Los términos utilizados en esta Política de Privacidad tienen el mismo significado que en nuestros Términos y Condiciones, a los que se puede acceder en MAIA, a menos que se defina lo contrario en esta Política de Privacidad.
 
 **Recogida y uso de la información**
