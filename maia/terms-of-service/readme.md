@@ -10,7 +10,6 @@ La aplicación utiliza servicios de terceros que declaran sus propios términos 
 
 Enlace a los términos y condiciones de los proveedores de servicios de terceros utilizados por la aplicación
 
-* [Servicios de Google Play](https://policies.google.com/terms)
 * [Amazon Web Service](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice__Spanish_Translation.pdf)
 
 Debes saber que hay ciertas cosas de las que José Ramón Martínez Riveiro no se hace responsable. Ciertas funciones de la app requerirán que ésta tenga una conexión a Internet activa. La conexión puede ser Wi-Fi, o proporcionada por tu proveedor de red móvil, pero José Ramón Martínez Riveiro no puede responsabilizarse de que la aplicación no funcione a pleno rendimiento si no tienes acceso a Wi-Fi, y no te queda nada de tu asignación de datos.
@@ -27,7 +26,7 @@ Es posible que en algún momento queramos actualizar la aplicación. La aplicaci
 
 Es posible que actualice nuestros Términos y Condiciones de vez en cuando. Por lo tanto, se le aconseja que revise esta página periódicamente para ver si hay cambios. Le notificaré cualquier cambio publicando los nuevos Términos y Condiciones en esta página.
 
-Estos términos y condiciones son efectivos a partir del 2021-11-11
+Estos términos y condiciones son efectivos a partir del 11-11-2021
 
 **Contacta con nosotros**
 
